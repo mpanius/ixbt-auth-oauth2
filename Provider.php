@@ -1,6 +1,6 @@
 <?php
 
-namespace SocialiteProviders\IxbtAuth;
+namespace Mpanius\IxbtAuthOauth2;
 
 use GuzzleHttp\RequestOptions;
 use Illuminate\Support\Arr;
