@@ -1,6 +1,6 @@
 <?php
 
-namespace SocialiteProviders\IxbtAuth;
+namespace Mpanius\IxbtAuthOauth2;
 
 use SocialiteProviders\Manager\SocialiteWasCalled;
 
