@@ -1,5 +1,5 @@
 {
-    "name": "mpanius/ixbtauth",
+    "name": "mpanius/ixbt-auth-oauth2",
     "description": "Ixbt central Auth OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "keywords": [
@@ -16,9 +16,9 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/mpanius/ixbtauth/issues",
-        "source": "https://github.com/mpanius/ixbtauth",
-        "docs": "https://github.com/mpanius/ixbtauth"
+        "issues": "https://github.com/mpanius/ixbt-auth-oauth2/issues",
+        "source": "https://github.com/mpanius/ixbt-auth-oauth2",
+        "docs": "https://github.com/mpanius/ixbt-auth-oauth2"
     },
     "require": {
         "php": "^8.0",
