@@ -1,0 +1,33 @@
+{
+    "name": "mpanius/ixbtauth",
+    "description": "Ixbt central Auth OAuth2 Provider for Laravel Socialite",
+    "license": "MIT",
+    "keywords": [
+        "laravel",
+        "oauth",
+        "passport",
+        "provider",
+        "socialite"
+    ],
+    "authors": [
+        {
+            "name": "mpanius",
+            "email": "mpanius@gmail.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/mpanius/ixbtauth/issues",
+        "source": "https://github.com/mpanius/ixbtauth",
+        "docs": "https://github.com/mpanius/ixbtauth"
+    },
+    "require": {
+        "php": "^8.0",
+        "ext-json": "*",
+        "socialiteproviders/manager": "^4.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "SocialiteProviders\\IxbtAuth\\": ""
+        }
+    }
+}
